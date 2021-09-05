@@ -1,0 +1,91 @@
+#boxone {
+    border: 1px solid black;
+    background-color: rgb(111, 53, 177);
+    border-radius: 15px;
+    margin-bottom: 15px;
+    color: white;
+    padding: 10px 10px;
+    height: 470px;
+    
+}
+
+#boxtwo {
+    border: 1px solid black;
+    background-color: rgb(92, 88, 95);
+    border-radius: 15px;
+    margin-bottom: 15px;
+    color: white;
+    padding: 10px 10px;
+    padding-top: -40px;
+}
+
+#boxthree {
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    color: black;
+    padding: 10px 10px;
+}
+
+#boxfour {
+    border: 1px solid black;
+    background-color: rgb(22, 22, 53);
+    border-radius: 15px;
+    margin-bottom: 15px;
+    color: white;
+    padding: 10px 10px;
+}
+
+#boxfive {
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    color: black;
+    padding: 10px 10px;
+}
+
+body {
+    background-color: rgb(205, 183, 209);
+    text-align: left;
+}
+
+.thumbs {
+    border-radius: 50%;
+    border: white 2px solid;
+    display: flex;
+    margin: 5px;
+    
+}
+
+strong {
+    position: relative;
+    left: 75px;
+    bottom: 70px;
+}
+/*
+#quote {
+    position: relative;
+    left: 500px;
+    bottom: 150px;
+}
+*/
+.verified {
+    position: relative;
+    left: 75px;
+    bottom: 80px;
+}
+
+h2 {
+   position: relative;
+   bottom: 50px;
+}
+
+#pic {
+    display: flex;
+    display: inline-block;
+    justify-content: flex-end;
+    
+    
+}
